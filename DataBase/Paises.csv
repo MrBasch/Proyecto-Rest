@@ -1,0 +1,193 @@
+Country;Alpha-2;Alpha-3;Currency;Currency Code;Lang
+Andorra;AD;AND;Euro;EUR;ca
+United Arab Emirates (the);AE;ARE;UAE Dirham;AED;ar-AE,fa,en,hi,ur
+Afghanistan;AF;AFG;Afghani;AFN;fa-AF,ps,uz-AF,tk
+Antigua and Barbuda;AG;ATG;East Caribbean Dollar;XCD;en-AG
+Albania;AL;ALB;Lek;ALL;sq,el
+Armenia;AM;ARM;Armenian Dram;AMD;hy
+Angola;AO;AGO;Kwanza;AOA;pt-AO
+Argentina;AR;ARG;Argentine Peso;ARS;es-AR,en,it,de,fr,gn
+Austria;AT;AUT;Euro;EUR;de-AT,hr,hu,sl
+Australia;AU;AUS;Australian Dollar;AUD;en-AU
+Azerbaijan;AZ;AZE;Azerbaijanian Manat;AZN;az,ru,hy
+Bosnia and Herzegovina;BA;BIH;Convertible Mark;BAM;bs,hr-BA,sr-BA
+Barbados;BB;BRB;Barbados Dollar;BBD;en-BB
+Bangladesh;BD;BGD;Taka;BDT;bn-BD,en
+Bélgica;BE;BEL;Euro;EUR;nl-BE,fr-BE,de-BE
+Burkina Faso;BF;BFA;CFA Franc BCEAO;XOF;fr-BF
+Bulgaria;BG;BGR;Bulgarian Lev;BGN;bg,tr-BG,rom
+Bahrain;BH;BHR;Bahraini Dinar;BHD;ar-BH,en,fa,ur
+Burundi;BI;BDI;Burundi Franc;BIF;fr-BI,rn
+Benin;BJ;BEN;CFA Franc BCEAO;XOF;fr-BJ
+Bermuda;BM;BMU;Bermudian Dollar;BMD;en-BM,pt
+Brunei Darussalam;BN;BRN;Brunei Dollar;BND;ms-BN,en-BN
+Bolivia (Plurinational State of);BO;BOL;Boliviano;BOB;es-BO,qu,ay
+Brazil;BR;BRA;Brazilian Real;BRL;pt-BR,es,en,fr
+Bahamas (the);BS;BHS;Bahamian Dollar;BSD;en-BS
+Botswana;BW;BWA;Pula;BWP;en-BW,tn-BW
+Belarus;BY;BLR;Belarussian Ruble;BYN;be,ru
+Belice;BZ;BLZ;Belize Dollar;BZD;en-BZ,es
+Canada;CA;CAN;Canadian Dollar;CAD;en-CA,fr-CA,iu
+Congo (the Democratic Republic of the);CD;COD;Congolese Franc;CDF;fr-CD,ln,kg
+Central African Republic (the);CF;CAF;CFA Franc BEAC;XAF;fr-CF,sg,ln,kg
+Congo (the);CG;COG;CFA Franc BEAC;XAF;fr-CG,kg,ln-CG
+Switzerland;CH;CHE;Swiss Franc;CHF;de-CH,fr-CH,it-CH,rm
+Costa de Marfil;CI;CIV;CFA Franc BCEAO;XOF;fr-CI
+Chile;CL;CHL;Chilean Peso;CLP;es-CL
+Cameroon;CM;CMR;CFA Franc BEAC;XAF;en-CM,fr-CM
+China;CN;CHN;Yuan Renminbi;CNY;zh-CN,yue,wuu,dta,ug,za
+Colombia;CO;COL;Colombian Peso;COP;es-CO
+Costa Rica;CR;CRI;Costa Rican Colon;CRC;es-CR,en
+Cuba;CU;CUB;Peso Convertible;CUC;es-CU
+Cabo Verde;CV;CPV;Cabo Verde Escudo;CVE;pt-CV
+Chipre;CY;CYP;Euro;EUR;el-CY,tr-CY,en
+Czechia;CZ;CZE;Czech Koruna;CZK;cs,sk
+Alemania;DE;DEU;Euro;EUR;de
+Djibouti;DJ;DJI;Djibouti Franc;DJF;fr-DJ,ar,so-DJ,aa
+Denmark;DK;DNK;Danish Krone;DKK;da-DK,en,fo,de-DK
+Dominica;DM;DMA;East Caribbean Dollar;XCD;en-DM
+Dominican Republic (the);DO;DOM;Dominican Peso;DOP;es-DO
+Algeria;DZ;DZA;Dinar;DZD;ar-DZ
+Ecuador;EC;ECU;US Dollar;USD;es-EC
+Estonia;EE;EST;Euro;EUR;et,ru
+Egypt;EG;EGY;Egyptian Pound;EGP;ar-EG,en,fr
+Eritrea;ER;ERI;Nakfa;ERN;aa-ER,ar,tig,kun,ti-ER
+Spain;ES;ESP;Euro;EUR;es-ES,ca,gl,eu,oc
+Ethiopia;ET;ETH;Ethiopian Birr;ETB;am,en-ET,om-ET,ti-ET,so-ET,sid
+Finland;FI;FIN;Euro;EUR;fi-FI,sv-FI,smn
+Fiji;FJ;FJI;Fiji Dollar;FJD;en-FJ,fj
+Micronesia (Federated States of);FM;FSM;US Dollar;USD;en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg
+France;FR;FRA;Euro;EUR;fr-FR,frp,br,co,ca,eu,oc
+Gabon;GA;GAB;CFA Franc BEAC;XAF;fr-GA
+United Kingdom of Great Britain and Northern Ireland (the);GB;GBR;Pound Sterling;GBP;en-GB,cy-GB,gd
+Grenada;GD;GRD;East Caribbean Dollar;XCD;en-GD
+Georgia;GE;GEO;Lari;GEL;ka,ru,hy,az
+Ghana;GH;GHA;Ghana Cedi;GHS;en-GH,ak,ee,tw
+Gambia (the);GM;GMB;Dalasi;GMD;en-GM,mnk,wof,wo,ff
+Guinea;GN;GIN;Guinea Franc;GNF;fr-GN
+Equatorial Guinea;GQ;GNQ;CFA Franc BEAC;XAF;es-GQ,fr
+Greece;GR;GRC;Euro;EUR;el-GR,en,fr
+Guatemala;GT;GTM;Quetzal;GTQ;es-GT
+Guinea-Bissau;GW;GNB;CFA Franc BCEAO;XOF;pt-GW,pov
+Guyana;GY;GUY;Guyana Dollar;GYD;en-GY
+Honduras;HN;HND;Lempira;HNL;es-HN
+Croatia;HR;HRV;Kuna;HRK;hr-HR,sr
+Haiti;HT;HTI;Gourde;HTG;ht,fr-HT
+Hungary;HU;HUN;Forint;HUF;hu-HU
+Indonesia;ID;IDN;Rupiah;IDR;id,en,nl,jv
+Ireland;IE;IRL;Euro;EUR;en-IE,ga-IE
+Israel;IL;ISR;New Israeli Sheqel;ILS;he,ar-IL,en-IL,
+India;IN;IND;Indian Rupee;INR;en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc
+Iraq;IQ;IRQ;Iraqi Dinar;IQD;ar-IQ,ku,hy
+Iran;IR;IRN;Rial;IRR;fa-IR,ku
+Iceland;IS;ISL;Iceland Krona;ISK;is,en,de,da,sv,no
+Italy;IT;ITA;Euro;EUR;it-IT,de-IT,fr-IT,sc,ca,co,sl
+Jamaica;JM;JAM;Jamaican Dollar;JMD;en-JM
+Jordan;JO;JOR;Jordanian Dinar;JOD;ar-JO,en
+Japan;JP;JPN;Yen;JPY;ja
+Kenya;KE;KEN;Kenyan Shilling;KES;en-KE,sw-KE
+Kyrgyzstan;KG;KGZ;Som;KGS;ky,uz,ru
+Cambodia;KH;KHM;Riel;KHR;km,fr,en
+Comoros (the);KM;COM;Comoro Franc;KMF;ar,fr-KM
+Saint Kitts and Nevis;KN;KNA;East Caribbean Dollar;XCD;en-KN
+North Korea;KP;PKR;Won;KPW;ko-KP
+South Korea;KR;KOR;Won;KRW;ko-KR,en
+Kuwait;KW;KWT;Kuwaiti Dinar;KWD;ar-KW,en
+Kazakhstan;KZ;KAZ;Tenge;KZT;kk,ru
+Lao People's Democratic Republic (the);LA;LAO;Kip;LAK;lo,fr,en
+Lebanon;LB;LBN;Lebanese Pound;LBP;ar-LB,fr-LB,en,hy
+Saint Lucia;LC;LCA;East Caribbean Dollar;XCD;en-LC
+Liechtenstein;LI;LIE;Swiss Franc;CHF;de-LI
+Sri Lanka;LK;LKA;Sri Lanka Rupee;LKR;si,ta,en
+Liberia;LR;LBR;Liberian Dollar;LRD;en-LR
+Lesotho;LS;LSO;Loti;LSL;en-LS,st,zu,xh
+Lithuania;LT;LTU;Euro;EUR;lt,ru,pl
+Luxembourg;LU;LUX;Euro;EUR;lb,de-LU,fr-LU
+Latvia;LV;LVA;Euro;EUR;lv,ru,lt
+Libya;LY;LBY;Libyan Dinar;LYD;ar-LY,it,en
+Morocco;MA;MAR;Moroccan Dirham;MAD;ar-MA,fr
+Monaco;MC;MCO;Euro;EUR;fr-MC,en,it
+Moldova (the Republic of);MD;MDA;Moldovan Leu;MDL;ro,ru,gag,tr
+Montenegro;ME;MNE;Euro;EUR;sr,hu,bs,sq,hr,rom
+Madagascar;MG;MDG;Malagasy Ariary;MGA;fr-MG,mg
+Marshall Islands (the);MH;MHL;US Dollar;USD;mh,en-MH
+Republic of North Macedonia;MK;MKD;Denar;MKD;mk,sq,tr,rmm,sr
+Mali;ML;MLI;CFA Franc BCEAO;XOF;fr-ML,bm
+Myanmar;MM;MMR;Kyat;MMK;my
+Mongolia;MN;MNG;Tugrik;MNT;mn,ru
+Mauritania;MR;MRT;Ouguiya;MRU;ar-MR,fuc,snk,fr,mey,wo
+Malta;MT;MLT;Euro;EUR;mt,en-MT
+Mauritius;MU;MUS;Mauritius Rupee;MUR;en-MU,bho,fr
+Maldives;MV;MDV;Rufiyaa;MVR;dv,en
+Malawi;MW;MWI;Kwacha;MWK;ny,yao,tum,swk
+Mexico;MX;MEX;Mexican Peso;MXN;es-MX
+Malaysia;MY;MYS;Malaysian Ringgit;MYR;ms-MY,en,zh,ta,te,ml,pa,th
+Mozambique;MZ;MOZ;Mozambique Metical;MZN;pt-MZ,vmw
+Namibia;NA;NAM;Namibia Dollar;NAD;en-NA,af,de,hz,naq
+Niger (the);NE;NER;CFA Franc BCEAO;XOF;fr-NE,ha,kr,dje
+Nigeria;NG;NGA;Naira;NGN;en-NG,ha,yo,ig,ff
+Nicaragua;NI;NIC;Cordoba Oro;NIO;es-NI,en
+Netherlands (the);NL;NLD;Euro;EUR;nl-NL,fy-NL
+Norway;NO;NOR;Norwegian Krone;NOK;no,nb,nn,se,fi
+Nepal;NP;NPL;Nepalese Rupee;NPR;ne,en
+Nauru;NR;NRU;Australian Dollar;AUD;na,en-NR
+New Zealand;NZ;NZL;New Zealand Dollar;NZD;en-NZ,mi
+Oman;OM;OMN;Rial Omani;OMR;ar-OM,en,bal,ur
+Panama;PA;PAN;Balboa;PAB;es-PA,en
+Peru;PE;PER;Nuevo Sol;PEN;es-PE,qu,ay
+Papua New Guinea;PG;PNG;Kina;PGK;en-PG,ho,meu,tpi
+Philippines (the);PH;PHL;Philippine Peso;PHP;tl,en-PH,fil
+Pakistan;PK;PAK;Pakistan Rupee;PKR;ur-PK,en-PK,pa,sd,ps,brh
+Poland;PL;POL;Zloty;PLN;pl
+Portugal;PT;PRT;Euro;EUR;pt-PT,mwl
+Palau;PW;PLW;US Dollar;USD;pau,sov,en-PW,tox,ja,fil,zh
+Paraguay;PY;PRY;Guarani;PYG;es-PY,gn
+Qatar;QA;QAT;Qatari Rial;QAR;ar-QA,es
+Romania;RO;ROU;Romanian Leu;RON;ro,hu,rom
+Serbia;RS;SRB;Serbian Dinar;RSD;sr,hu,bs,rom
+Russian Federation (the);RU;RUS;Russian Ruble;RUB;ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog
+Rwanda;RW;RWA;Rwanda Franc;RWF;rw,en-RW,fr-RW,sw
+Saudi Arabia;SA;SAU;Rial;SAR;ar-SA
+Solomon Islands;SB;SLB;Solomon Islands Dollar;SBD;en-SB,tpi
+Seychelles;SC;SYC;Seychelles Rupee;SCR;en-SC,fr-SC
+Sudan (the);SD;SDN;Sudanese Pound;SDG;ar-SD,en,fia
+Sweden;SE;SWE;Swedish Krona;SEK;sv-SE,se,sma,fi-SE
+Singapore;SG;SGP;Singapore Dollar;SGD;cmn,en-SG,ms-SG,ta-SG,zh-SG
+Slovenia;SI;SVN;Euro;EUR;sl,sh
+Slovakia;SK;SVK;Euro;EUR;sk,hu
+Sierra Leone;SL;SLE;Leone;SLL;en-SL,men,tem
+San Marino;SM;SMR;Euro;EUR;it-SM
+Senegal;SN;SEN;CFA Franc BCEAO;XOF;fr-SN,wo,fuc,mnk
+Somalia;SO;SOM;Somali Shilling;SOS;so-SO,ar-SO,it,en-SO
+Suriname;SR;SUR;Surinam Dollar;SRD;nl-SR,en,srn,hns,jv
+South Sudan;SS;SSD;South Sudanese Pound;SSP;en
+Sao Tome and Principe;ST;STP;Dobra;STN;pt-ST
+El Salvador;SV;SLV;US Dollar;USD;es-SV
+Syrian Arab Republic;SY;SYR;Syrian Pound;SYP;ar-SY,ku,hy,arc,fr,en
+Eswatini;SZ;SWZ;Lilangeni;SZL;en-SZ,ss-SZ
+Chad;TD;TCD;CFA Franc BEAC;XAF;fr-TD,ar-TD,sre
+Togo;TG;TGO;CFA Franc BCEAO;XOF;fr-TG,ee,hna,kbp,dag,ha
+Thailand;TH;THA;Baht;THB;th,en
+Tajikistan;TJ;TJK;Somoni;TJS;tg,ru
+Timor-Leste;TL;TLS;US Dollar;USD;tet,pt-TL,id,en
+Turkmenistan;TM;TKM;Turkmenistan New Manat;TMT;tk,ru,uz
+Tunisia;TN;TUN;Tunisian Dinar;TND;ar-TN,fr
+Tonga;TO;TON;Pa’anga;TOP;to,en-TO
+Turkey;TR;TUR;Turkish Lira;TRY;tr-TR,ku,diq,az,av
+Trinidad and Tobago;TT;TTO;Trinidad and Tobago Dollar;TTD;en-TT,hns,fr,es,zh
+Tuvalu;TV;TUV;Australian Dollar;AUD;tvl,en,sm,gil
+Tanzania, United Republic of;TZ;TZA;Tanzanian Shilling;TZS;sw-TZ,en,ar
+Ukraine;UA;UKR;Hryvnia;UAH;uk,ru-UA,rom,pl,hu
+Uganda;UG;UGA;Uganda Shilling;UGX;en-UG,lg,sw,ar
+United States of America (the);US;USA;US Dollar;USD;en-US,es-US,haw,fr
+Uruguay;UY;URY;Peso Uruguayo;UYU;es-UY
+Uzbekistan;UZ;UZB;Uzbekistan Sum;UZS;uz,ru,tg
+Saint Vincent and the Grenadines;VC;VCT;East Caribbean Dollar;XCD;en-VC,fr
+Venezuela (Bolivarian Republic of);VE;VEN;Bolivar;VEF;es-VE
+Vietnam;VN;VNM;Dong;VND;vi,en,fr,zh,km
+Vanuatu;VU;VUT;Vatu;VUV;bi,en-VU,fr-VU
+Samoa;WS;WSM;Tala;WST;sm,en-WS
+Yemen;YE;YEM;Yemeni Rial;YER;ar-YE
+South Africa;ZA;ZAF;Rand;ZAR;zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr
+Zambia;ZM;ZMB;Zambian Kwacha;ZMW;en-ZM,bem,loz,lun,lue,ny,toi
+Zimbabwe;ZW;ZWE;Zimbabwe Dollar;ZWL;en-ZW,sn,nr,nd

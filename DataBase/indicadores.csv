@@ -1,0 +1,44 @@
+Indicador;Codigo;Descripcion;Unidad
+Producto Interno Bruto;PIB;"En macroeconomía, el producto interno bruto (PIB), conocido
+también como producto interior o producto bruto interno (PBI), es una magnitud
+macroeconómica que expresa el valor monetario de la producción de bienes y
+servicios de demanda final de un país o región durante un período determinado,
+normalmente de un año o trimestrales.";US$
+Tasa de desempleo anual;TDA;"La tasa de desempleo anual, es el porcentaje de la población activa
+(en condición de trabajar) que carece de empleo y, por lo tanto, de salario.";Porcentaje(%)
+Inflación;IFL;"La inflación, en economía, es el aumento generalizado y sostenido
+de los precios de los bienes y servicios existentes en el mercado durante un
+período de tiempo, generalmente un año. Cuando el nivel general de precios
+sube, con cada unidad de moneda se adquieren menos bienes y servicios. Es
+decir, que la inflación refleja la disminución del poder adquisitivo de la moneda:
+una pérdida del valor real del medio interno de intercambio y unidad de medida
+de una economía. Una medida frecuente de la inflación es el índice de precios,
+que corresponde al porcentaje anualizado de la variación general de precios en el
+tiempo (el más común es el índice de precios al consumidor).";Porcentaje(%)
+Impuesto de Valor Añadido;IVA;"El IVA es una carga fiscal sobre el consumo, es decir, financiado por
+el consumidor como impuesto regresivo. El IVA es un impuesto indirecto: no es
+percibido por el fisco directamente del tributario, sino por el vendedor en el momento de toda transacción comercial (transferencia de bienes o prestación de
+servicios).";Porcentaje(%)
+Presión Fiscal;PRF;"Presión tributaria o presión fiscal es un término económico para
+referirse al porcentaje de los ingresos que los particulares y empresas aportan
+efectivamente al Estado en concepto de tributos en relación al producto bruto
+interno. De ese modo, la presión tributaria de un país es el porcentaje del PIB
+recaudado por el Estado por impuestos, tasas y otros tributos. Esto no incluye el
+IVA.";Porcentaje(%)
+Salario Mínimo (US$ a precios actuales);SMI;"La remuneración mínima, salario mínimo o sueldo mínimo, es la
+cantidad mínima de dinero que se le paga a un trabajador en un determinado país
+y a través de una ley establecida oficialmente, para un determinado período
+laboral (hora, día o mes), que los empleadores deben pagar a sus trabajadores
+por sus labores.";US$
+Tasa de cambio (US$ a precios actuales);TSC;"La tasa o tipo de cambio entre dos divisas es la tasa o relación de
+proporción que existe entre el valor de una y la otra. Dicha tasa es un indicador
+que expresa cuántas unidades de una divisa se necesitan para obtener una
+unidad de la otra. Por ejemplo, si la tasa de cambio entre el euro y el dólar
+estadounidense EUR/USD fuera de 1.12, ello significa que el euro equivale a 1.12
+dólares.";US$ (por unidad)
+Doing Business Index;DBI;"El índice de facilidad para hacer negocios (en inglés, ease of doing
+business index) es un índice creado por el Grupo del Banco Mundial.1 La
+clasificación de los más altos índices indican el mejor, generalmente el más simple
+en cuanto a las regulaciones para las empresas, y el de mayor protección de los derechos de propiedad. La investigación empírica financiada por el Banco
+Mundial para justificar su trabajo pretende mostrar que el efecto de las mejoras de
+estas normas en el crecimiento económico es fuerte.";Posición en el ranking (menos es mejor)
